@@ -1,0 +1,17 @@
+{
+  "posts": 
+    {
+      "status": "ok",
+      "data": "990343234434"
+    }
+  ,
+  "status":
+    {
+      "id": 990343234434,
+      "status": "In-progress"
+    }
+  ,
+  "profile": {
+    "name": "typicode"
+  }
+}
