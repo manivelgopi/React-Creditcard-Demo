@@ -7,6 +7,7 @@ import cardImage from './images/card.jpg';
 export default function Home() {
     return (
         <div>
+            
            <Carousel transition="false">
         <Carousel.Item transition="false">
             <img
